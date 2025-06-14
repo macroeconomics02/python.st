@@ -47,10 +47,8 @@ st.markdown(
         - 시장의 수요 곡선과 발전소가 전력 한단위를 생산하는데 드는 한계계통가격(SMP)가 만나는 점에서 가격이 결정된다.
         - 입찰가격 선정에 대한 자세한 내용 👉[KPX](https://www.kpx.or.kr/menu.es?mid=a10401010000)'''
 )
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 
+import pandas as pd
 
 chart_data = pd.DataFrame({
     'y': [10, 20, 30, 40, 50],
