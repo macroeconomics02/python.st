@@ -80,7 +80,7 @@ st.markdown(
     3. 기후환경요금: 깨끗하고 안전한 에너지 제공에 소요되는 비용
     4. 연료비 조정요금: 연료비의 변동분을 요금에 일부분 반영'''
 )
-st.image('https://raw.githubusercontent.com/macroeconomics02/python.st/blob/main/%EC%A0%84%EB%A0%A5%EC%9A%94%EA%B8%88.png')
+st.image("https://raw.githubusercontent.com/macroeconomics02/python.st/main/전력요금.png")
 st.divider()
 
 st.info('이 정보는 생각해야할 중요한 문제입니다!', icon="⭐")
